@@ -1,2 +1,1 @@
-for i in range(1001):
-	if i.bit_count()&1:print(i)
+for i in range(1001):i.bit_count()&1and print(i)
